@@ -1,0 +1,40 @@
+{
+    "PathToHome": "",
+
+    "Vim": {
+        "UrlToVimrc": ""
+    },
+
+    "GitHub": {
+        "email": "",
+        "name": ""
+    },
+
+    "Course": {
+        "TPZ_USERNAME": "",
+        "TPZ_PASSWORD": "",
+
+        "Project_Repo": "",
+
+        "AWS_CurrentUser": "",
+        "AWS_Region": "",
+        "AWS_Config": [
+            {
+                "UserInClass": "",
+                "AccessKeyID": "",
+                "SecretAccessKey": ""
+            },
+            {
+                "UserInClass": "",
+                "AccessKeyID": "",
+                "SecretAccessKey": ""
+            }
+        ],
+
+        "Docker_Config": {
+            "DOCKER_REPO": "",
+            "DOCKER_TAG": "",
+            "AWS_ASG_NAME": ""
+        }
+    }
+}
